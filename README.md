@@ -1,1 +1,2 @@
 # Granjita
+métodos y herencia
